@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header 
+{
+    background-color:#E0FFFF ;
+}
+
+nav {
+    background-color: beige;
+    text-decoration: cadetblue;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font-size: 50px;
+}
+
+footer p {
+    background-color: gold;
+}
+
+nav {
+    background-color: green;
+    padding: 8px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+.product {
+    background-color: tomato;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.recomend {
+    color: blue;
+    font-size: 32px;
+}
